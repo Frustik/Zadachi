@@ -6,11 +6,12 @@
         {
             "label": "Компиляция",
             "type": "shell",
-            "command": "g++ Zadacha-3/Zad-3.cpp",
+            "command": "g++ Tabl/Tabl.cpp",
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "problemMatcher": []
         }
     ]
 }
